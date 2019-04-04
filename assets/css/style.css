@@ -11,7 +11,7 @@ h1
 {
   font-family: 'Open Sans';
   font-weight: lighter;
-  font-size: 120%;
+  font-size: 118%;
 }
 
 h2
@@ -21,7 +21,8 @@ h2
   font-weight: lighter;
   display: flex;
   justify-content: space-between;
-  margin-left: 15%
+  margin-left: 15%;
+  margin-top: 10%;
 }
 
 .titrephoto
@@ -95,6 +96,7 @@ img
 {
   width: 70px;
   height: 70px;
+  margin-top: -5%;
 }
 
 .bold
@@ -106,4 +108,14 @@ img
 #fleche
 {
   color: #144a82;
+  font-family: 'Open Sans';
+  font-weight: lighter;
+}
+
+.h1
+{
+  margin-left: 5%;
+  font-family: 'Open Sans';
+  font-weight: lighter;
+  font-size: 118%;
 }
